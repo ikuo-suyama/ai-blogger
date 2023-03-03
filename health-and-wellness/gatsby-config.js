@@ -1,7 +1,7 @@
 const path = require("path")
 
 module.exports = {
-  pathPrefix: `/ai-blogger`,
+  pathPrefix: ``,
   siteMetadata: {
     title: `Miravi Blog`,
     name: `ミラヴィ - Miravi`,
