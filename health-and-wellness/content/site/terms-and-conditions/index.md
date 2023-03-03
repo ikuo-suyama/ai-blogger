@@ -1,17 +1,32 @@
 ---
-title: Terms and Conditions
+title: 利用規約
 date: "2021-07-31"
 description: "Terms and Conditions"
 noIndex: true
 displayTitle: true
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pharetra egestas odio id accumsan. In vel ipsum quam. Fusce scelerisque rutrum tempus. Mauris in velit sapien. In mi nibh, dignissim in ligula ut, faucibus lacinia libero. Etiam volutpat turpis est, a scelerisque sem commodo eu. Morbi lectus quam, molestie eget vestibulum in, porta ac tellus. Aliquam feugiat, orci non vehicula tristique, augue ex congue dui, non suscipit velit purus vitae diam. Phasellus dui augue, faucibus sed neque id, pellentesque porta magna. Cras nec lacinia dui. Pellentesque lacinia, nisi non porta condimentum, risus nisi semper erat, vel ullamcorper neque justo sit amet erat. Mauris lacinia dolor in arcu tempor pretium.
+利用規約
 
-Donec venenatis blandit erat. In a sodales neque, sit amet dignissim eros. Donec sit amet semper ligula. Praesent vel ligula ultrices, efficitur nisi non, tincidunt dolor. Proin a dolor dolor. Fusce malesuada ornare felis eu auctor. Morbi vestibulum venenatis lectus scelerisque tempus.
+この利用規約（以下、「本規約」といいます。）は、ミラヴィ（以下、「当サイト」といいます。）の利用条件を定めるものです。本規約に同意いただいた上で、当サイトをご利用ください。
 
-Vivamus hendrerit eleifend nunc sed imperdiet. Ut sed sem at nisi rhoncus faucibus. Cras varius ex quis semper lacinia. Sed eu leo lectus. Quisque pellentesque condimentum metus, non dapibus justo lobortis mattis. Suspendisse sit amet eros justo. Cras iaculis elementum nisl, quis vehicula diam tincidunt quis. Aliquam id aliquam odio, bibendum tristique nibh. Suspendisse mattis pharetra turpis, et pharetra urna eleifend quis. Proin tempor molestie magna in egestas. Vivamus arcu ante, eleifend eget mattis ac, aliquam at lorem. Nulla vehicula consectetur pulvinar. Quisque sit amet ligula ac ipsum eleifend ultrices. Suspendisse potenti. Aenean a massa iaculis, posuere elit in, vehicula arcu. Aliquam erat volutpat.
+利用者の責任
+当サイトを利用することにより、利用者は以下の事項に同意するものとします。
 
-Sed tempus velit augue, fringilla mollis dui bibendum non. Vestibulum volutpat nisi ut dolor pretium, quis euismod tellus pulvinar. Vestibulum ut ligula vitae elit lobortis scelerisque eget a nisl. Nam libero nibh, euismod in pulvinar ut, venenatis id odio. Mauris varius vel lectus sed sagittis. Nulla facilisi. Fusce suscipit lectus eros, vel viverra eros posuere a. Vivamus gravida, tellus vitae varius consectetur, eros nisl malesuada mauris, eget malesuada mi est sit amet nisl. Ut vitae mauris sit amet justo congue iaculis. Nullam vestibulum dapibus velit. Sed mauris nunc, aliquam ac nisl eget, tincidunt sollicitudin orci. Nullam dictum efficitur tincidunt. Proin sollicitudin mi vitae purus iaculis, ut interdum libero fermentum.
+1.1 当サイトを利用することにより得られた情報をもとに行われる一切の行為について、利用者自身が責任を負います。
+1.2 当サイトを利用するために必要な機器・ソフトウェア等を自己の費用と責任で用意するものとします。
+1.3 当サイトの利用にあたっては、利用者は法令および公序良俗に反しない行為を行うものとします。
+1.4 当サイトに掲載された情報について、正確性、最新性、有用性、安全性等について保証するものではありません。
 
-Donec at lorem commodo, facilisis nunc eu, facilisis magna. Praesent nec pharetra dolor, sit amet vehicula turpis. Cras eros turpis, commodo eu cursus sed, molestie et nibh. Fusce tempus orci orci, ac ultricies tortor venenatis nec. Maecenas eu interdum nulla, quis sodales diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam sem ligula, aliquam in luctus ut, finibus eu lectus.
+知的財産権
+当サイトに掲載されたすべての情報（文章、画像、音声、動画等）の著作権は、当サイトに帰属します。利用者は、当サイトの事前の承諾なく、当サイトに掲載された情報を転載、複製、配布等の行為を行うことはできません。
+
+免責事項
+当サイトは、利用者が当サイトを利用して得た情報により発生した損害について、一切の責任を負いません。
+
+利用規約の変更
+当サイトは、本規約を事前の通知なく変更することができます。
+
+規約の有効性
+本規約のいずれかの条項が法令に基づき無効と判断された場合、その他の条項は有効とします。
+

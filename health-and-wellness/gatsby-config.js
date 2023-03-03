@@ -10,22 +10,16 @@ module.exports = {
     siteUrl: `https://pitayan.github.io`,
     siteSlogan: `ミラヴィ：美と健康のコミュニティ`,
     siteLinks: [
-      {
-        name: "sitemap",
-        url: "/sitemap/sitemap-index.xml",
-        group: "site",
-        internal: true,
-      },
+      // {
+      //   name: "sitemap",
+      //   url: "/sitemap/sitemap-index.xml",
+      //   group: "site",
+      //   internal: true,
+      // },
       {
         name: "rss",
         url: "/rss.xml",
         group: "site",
-        internal: true,
-      },
-      {
-        name: "write for us",
-        url: "/write-for-us",
-        group: "site,home",
         internal: true,
       },
       {
@@ -47,32 +41,20 @@ module.exports = {
         internal: true,
       },
       {
-        name: "github",
-        url: "https://github.com/Pitayan",
-        group: "connect,home",
-        internal: false,
-      },
-      {
         name: "twitter",
-        url: "https://twitter.com/pitayanblog",
+        url: "https://twitter.com/martin_lover_se",
         group: "connect,home",
         internal: false,
       },
-      {
-        name: "email",
-        url: "mailto: pitayanblog@gmail.com",
-        group: "connect",
-        internal: false,
-      },
-    ],
+   ],
     siteCookieConsent: {
       title: '',
       description: '',
       readMore: '',
     },
     siteSubscription: {
-      title: '',
-      description: '',
+      title: 'ニュースレター',
+      description: '当サイトのメーリングリストにご登録いただけますと、専用の情報をいち早くお届けすることができます。',
     },
   },
   plugins: [
