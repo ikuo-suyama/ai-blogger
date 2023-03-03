@@ -3,12 +3,12 @@ const path = require("path")
 module.exports = {
   pathPrefix: `/gatsby-theme-pitayan`,
   siteMetadata: {
-    title: `Pitayan Blog`,
-    name: `Pitayan`,
+    title: `Miravi Blog`,
+    name: `ミラヴィ - Miravi`,
     description:
-      "Pitayan blog is a place publishing contents about web development! All articles are free to read and share.",
+      "美容や健康、ウェルネスに特化したライフスタイルサイト、ミラヴィ。日々の生活に役立つ情報を発信しています。",
     siteUrl: `https://pitayan.github.io`,
-    siteSlogan: `Welcome to Pitayan, come find inspiring software development stories.`,
+    siteSlogan: `ミラヴィ：美と健康のコミュニティ`,
     siteLinks: [
       {
         name: "sitemap",
